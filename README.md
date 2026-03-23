@@ -68,3 +68,6 @@ I will code **every day** to improve my skills.
 - [ ] Blog API
 - [ ] Final Project
 
+## 📖 Reference
+
+- https://www.w3schools.com/python/default.asp
