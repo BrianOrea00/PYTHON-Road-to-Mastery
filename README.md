@@ -33,13 +33,11 @@ I will code **every day** to improve my skills.
 - [ ] Functions
 - [ ] Error Handling
 
-### Data Structures
+### DSA
 - [ ] Lists
 - [ ] Dictionaries
 - [ ] Sets
 - [ ] Tuples
-
-### DSA
 - [ ] Linear Search
 - [ ] Binary Search
 - [ ] Sorting Algorithms
