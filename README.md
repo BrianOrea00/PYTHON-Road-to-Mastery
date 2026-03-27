@@ -22,52 +22,115 @@ I will code **every day** to improve my skills.
 
 ---
 
-## 📌 Roadmap Progress
+## 📌 Roadmap Progress (Following W3Schools)
 
-### Basics
-- [ ] Variables & Data Types
-- [ ] Input / Output
+### 🟢 Basics
+
+#### Variables (Completed ✅)
+- [x] Variables
+- [x] Variable Names
+- [x] Output Variables
+- [x] Assign Multiple Values
+- [x] Global Variables
+
+#### Next Topics
+- [ ] Data Types
+- [ ] Numbers
+- [ ] Casting
+- [ ] Strings
+- [ ] Booleans
 - [ ] Operators
-- [ ] Conditionals
-- [ ] Loops
+- [ ] Lists
+- [ ] Tuples
+- [ ] Sets
+- [ ] Dictionaries
+- [ ] If...Else
+- [ ] While Loops
+- [ ] For Loops
 - [ ] Functions
+- [ ] Lambda
+- [ ] Arrays
+- [ ] Classes / Objects
+- [ ] Inheritance
+- [ ] Iterators
+- [ ] Polymorphism
+- [ ] Scope
+- [ ] Modules
+- [ ] Dates
+- [ ] Math
+- [ ] JSON
+- [ ] RegEx
+- [ ] PIP
 - [ ] Error Handling
 
-### Data Structures
-- [ ] Lists
-- [ ] Dictionaries
+---
+
+### 🟡 Data Structures (Deeper Understanding)
+- [ ] Lists (Advanced usage)
+- [ ] Dictionaries (Advanced usage)
 - [ ] Sets
 - [ ] Tuples
 
-### DSA
+---
+
+### 🟡 DSA
 - [ ] Linear Search
 - [ ] Binary Search
 - [ ] Sorting Algorithms
 - [ ] Stack
 - [ ] Queue
-### OOP
+
+---
+
+### 🟡 OOP
 - [ ] Classes & Objects
 - [ ] Inheritance
 - [ ] Polymorphism
 
-### Backend
+---
+
+### 🔵 Backend
 - [ ] HTTP Basics
 - [ ] REST API
 - [ ] FastAPI / Flask
 
-### Database
+---
+
+### 🔵 Database
 - [ ] SQL Basics
 - [ ] Database Connection
 
-### Authentication
+---
+
+### 🟣 Authentication
 - [ ] Login System
 - [ ] JWT Authentication
 
-### Projects
+---
+
+### 🔴 Projects
 - [ ] Todo API
 - [ ] Blog API
 - [ ] Final Project
 
+---
+
 ## 📖 Reference
 
+Main Learning Source:
 - https://www.w3schools.com/python/default.asp
+
+---
+
+## 📌 Rule
+
+- Study → Code → Push
+- Every day must have output
+- Focus on consistency, not perfection
+
+---
+
+## 🧠 Progress Mindset
+
+I am building this daily to become a backend developer.
+Every small step compounds over time.
