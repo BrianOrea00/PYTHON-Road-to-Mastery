@@ -32,9 +32,9 @@ I will code **every day** to improve my skills.
 - [x] Output Variables
 - [x] Assign Multiple Values
 - [x] Global Variables
+- [x] Data Types
 
 #### Next Topics
-- [ ] Data Types
 - [ ] Numbers
 - [ ] Casting
 - [ ] Strings
