@@ -33,10 +33,10 @@ I will code **every day** to improve my skills.
 - [x] Assign Multiple Values
 - [x] Global Variables
 - [x] Data Types
+- [x] Casting
 
 #### Next Topics
 - [ ] Numbers
-- [ ] Casting
 - [ ] Strings
 - [ ] Booleans
 - [ ] Operators
