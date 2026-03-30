@@ -34,9 +34,9 @@ I will code **every day** to improve my skills.
 - [x] Global Variables
 - [x] Data Types
 - [x] Casting
+- [x] Numbers
 
 #### Next Topics
-- [ ] Numbers
 - [ ] Strings
 - [ ] Booleans
 - [ ] Operators
