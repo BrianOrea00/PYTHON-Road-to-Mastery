@@ -35,9 +35,9 @@ I will code **every day** to improve my skills.
 - [x] Data Types
 - [x] Casting
 - [x] Numbers
+- [x] Strings
 
 #### Next Topics
-- [ ] Strings
 - [ ] Booleans
 - [ ] Operators
 - [ ] Lists
