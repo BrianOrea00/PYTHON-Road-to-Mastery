@@ -38,6 +38,7 @@ I will code **every day** to improve my skills.
 - [x] Strings
 - [x] Slicing
 - [x] Modify
+- [x] Concatenation
 
 #### Next Topics
 - [ ] Booleans
