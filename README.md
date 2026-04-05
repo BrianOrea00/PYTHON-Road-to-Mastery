@@ -40,6 +40,7 @@ I will code **every day** to improve my skills.
 - [x] Modify
 - [x] Concatenation
 - [x] Format
+- [x] Escape Character
 
 #### Next Topics
 - [ ] Booleans
