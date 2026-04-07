@@ -41,6 +41,7 @@ I will code **every day** to improve my skills.
 - [x] Concatenation
 - [x] Format
 - [x] Escape Character
+- [x] String Method
 
 #### Next Topics
 - [ ] Booleans
