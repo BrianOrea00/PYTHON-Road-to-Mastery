@@ -42,9 +42,9 @@ I will code **every day** to improve my skills.
 - [x] Format
 - [x] Escape Character
 - [x] String Method
+- [x] Booleans
 
 #### Next Topics
-- [ ] Booleans
 - [ ] Operators
 - [ ] Lists
 - [ ] Tuples
