@@ -43,9 +43,9 @@ I will code **every day** to improve my skills.
 - [x] Escape Character
 - [x] String Method
 - [x] Booleans
+- [x] Operators
 
 #### Next Topics
-- [ ] Operators
 - [ ] Lists
 - [ ] Tuples
 - [ ] Sets
