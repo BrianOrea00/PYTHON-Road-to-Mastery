@@ -44,6 +44,7 @@ I will code **every day** to improve my skills.
 - [x] String Method
 - [x] Booleans
 - [x] Operators
+- [x] Arithmetics
 
 #### Next Topics
 - [ ] Lists
