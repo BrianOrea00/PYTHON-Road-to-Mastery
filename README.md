@@ -47,6 +47,7 @@ I will code **every day** to improve my skills.
 - [x] Arithmetics
 - [x] Assignments
 - [x] Comparisons
+- [x] Logical
 
 #### Next Topics
 - [ ] Lists
