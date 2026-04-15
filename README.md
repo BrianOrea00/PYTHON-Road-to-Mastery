@@ -49,6 +49,7 @@ I will code **every day** to improve my skills.
 - [x] Comparisons
 - [x] Logical
 - [x] Identity
+- [x] Memberships
 
 #### Next Topics
 - [ ] Lists
