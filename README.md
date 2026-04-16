@@ -50,6 +50,7 @@ I will code **every day** to improve my skills.
 - [x] Logical
 - [x] Identity
 - [x] Memberships
+- [x] Bitwise
 
 #### Next Topics
 - [ ] Lists
