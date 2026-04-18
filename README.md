@@ -52,9 +52,9 @@ I will code **every day** to improve my skills.
 - [x] Memberships
 - [x] Bitwise
 - [x] Precedence
+- [x] Lists
 
 #### Next Topics
-- [ ] Lists
 - [ ] Tuples
 - [ ] Sets
 - [ ] Dictionaries
