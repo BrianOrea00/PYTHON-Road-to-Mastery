@@ -28,31 +28,32 @@ I will code **every day** to improve my skills.
 
 #### Variables (Completed ✅)
 - [x] Variables
-- [x] Variable Names
-- [x] Output Variables
-- [x] Assign Multiple Values
-- [x] Global Variables
+- [x] Variables - Variable Names
+- [x] Variables - Output Variables
+- [x] Variables -Assign Multiple Values
+- [x] Variables - Global Variables
 - [x] Data Types
 - [x] Casting
 - [x] Numbers
 - [x] Strings
-- [x] Slicing
-- [x] Modify
-- [x] Concatenation
-- [x] Format
-- [x] Escape Character
-- [x] String Method
+- [x] String - Slicing
+- [x] String - Modify
+- [x] String - Concatenation
+- [x] String - Format
+- [x] String - Escape Character
+- [x] String- String Method
 - [x] Booleans
 - [x] Operators
-- [x] Arithmetics
-- [x] Assignments
-- [x] Comparisons
-- [x] Logical
-- [x] Identity
-- [x] Memberships
-- [x] Bitwise
-- [x] Precedence
+- [x] Operators - Arithmetics
+- [x] Operators - Assignments
+- [x] Operators - Comparisons
+- [x] Operators - Logical
+- [x] Operators - Identity
+- [x] Operators - Memberships
+- [x] Operators - Bitwise
+- [x] Operators - Precedence
 - [x] Lists
+- [x] Lists - Access
 
 #### Next Topics
 - [ ] Tuples
