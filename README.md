@@ -54,6 +54,7 @@ I will code **every day** to improve my skills.
 - [x] Operators - Precedence
 - [x] Lists
 - [x] Lists - Access
+- [x] Lists - Change
 
 #### Next Topics
 - [ ] Tuples
