@@ -55,6 +55,7 @@ I will code **every day** to improve my skills.
 - [x] Lists
 - [x] Lists - Access
 - [x] Lists - Change
+- [x] Lists - Add
 
 #### Next Topics
 - [ ] Tuples
