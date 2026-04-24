@@ -58,6 +58,7 @@ I will code **every day** to improve my skills.
 - [x] Lists - Add
 - [x] Lists - Remove
 - [x] Lists - Loop
+- [x] Lists - Comprehension
 
 #### Next Topics
 - [ ] Tuples
