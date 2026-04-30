@@ -61,6 +61,7 @@ I will code **every day** to improve my skills.
 - [x] Lists - Comprehension
 - [x] Lists - Sort
 - [x] Lists - Copy
+- [x] lists - join
 
 #### Next Topics
 - [ ] Tuples
