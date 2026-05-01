@@ -62,9 +62,9 @@ I will code **every day** to improve my skills.
 - [x] Lists - Sort
 - [x] Lists - Copy
 - [x] lists - join
+- [x] Tuples
 
 #### Next Topics
-- [ ] Tuples
 - [ ] Sets
 - [ ] Dictionaries
 - [ ] If...Else
