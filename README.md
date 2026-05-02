@@ -63,6 +63,7 @@ I will code **every day** to improve my skills.
 - [x] Lists - Copy
 - [x] lists - join
 - [x] Tuples
+- [x] Tuples - Access
 
 #### Next Topics
 - [ ] Sets
