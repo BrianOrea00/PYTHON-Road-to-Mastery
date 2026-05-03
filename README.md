@@ -64,6 +64,7 @@ I will code **every day** to improve my skills.
 - [x] lists - join
 - [x] Tuples
 - [x] Tuples - Access
+- [x] Tuples - Update
 
 #### Next Topics
 - [ ] Sets
