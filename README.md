@@ -67,6 +67,7 @@ I will code **every day** to improve my skills.
 - [x] Tuples - Update
 - [x] Tuples - Unpack
 - [x] Tuples - Loop
+- [x] Tuples - Join
 
 #### Next Topics
 - [ ] Sets
