@@ -68,9 +68,9 @@ I will code **every day** to improve my skills.
 - [x] Tuples - Unpack
 - [x] Tuples - Loop
 - [x] Tuples - Join
+- [x] Sets
 
 #### Next Topics
-- [ ] Sets
 - [ ] Dictionaries
 - [ ] If...Else
 - [ ] While Loops
