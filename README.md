@@ -69,6 +69,7 @@ I will code **every day** to improve my skills.
 - [x] Tuples - Loop
 - [x] Tuples - Join
 - [x] Sets
+- [x] Sets - Access
 
 #### Next Topics
 - [ ] Dictionaries
