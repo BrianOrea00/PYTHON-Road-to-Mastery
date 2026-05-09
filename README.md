@@ -70,6 +70,7 @@ I will code **every day** to improve my skills.
 - [x] Tuples - Join
 - [x] Sets
 - [x] Sets - Access
+- [x] Sets - Add
 
 #### Next Topics
 - [ ] Dictionaries
