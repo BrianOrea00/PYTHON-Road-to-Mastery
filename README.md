@@ -71,6 +71,7 @@ I will code **every day** to improve my skills.
 - [x] Sets
 - [x] Sets - Access
 - [x] Sets - Add
+- [x] Sets - Remove
 
 #### Next Topics
 - [ ] Dictionaries
