@@ -57,4 +57,27 @@ set2 = {"google", "microsoft", "apple"}
 set3 = set1 & set2
 print(set3)
 # Note: The & operator only allows you to join sets with sets, and not with other data types like you can with the intersection() method
+# the intersection_update() method will also keep only the duplicates but it will change the original set instead of returning a new set
+set1.intersection_update(set2)
+print(set1)
+# the value True and 1 are considered the same value the same goes to False and 0
+set1 = {"apple", 1, "banana", 0, "cherry"}
+set2 = {False, "google", 1, "apple", 2, True}
+set3 = set1.intersection(set2)
+print(set3)
 
+# Difference
+# the difference() method will return a new set that will contain only the items from the first set that are not present in the other set
+set1 = {"apple", "banana", "cherry"}
+set2 = {"google", "microsoft", "apple"}
+set3 = set1.difference(set2)
+print(set3)
+# we can use the - operator instead of the difference() method and we will get the same result
+set3 = set1 - set2
+print(set3)
+# Note: The - operator only allows you to join sets with sets, and not with other data types like you can with the difference() method
+# the difference_update() method will keep the items from the first set that are not in the other set but it will change the original set instead of returning a new set
+set1 = {"apple", "banana", "cherry"}
+set2 = {"google", "microsoft", "apple"}
+set1.difference_update(set2)
+print(set1)
