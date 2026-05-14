@@ -73,6 +73,7 @@ I will code **every day** to improve my skills.
 - [x] Sets - Add
 - [x] Sets - Remove
 - [x] Sets - Loop
+- [x] Sets - Join
 
 #### Next Topics
 - [ ] Dictionaries
