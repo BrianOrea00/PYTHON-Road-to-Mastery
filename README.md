@@ -75,9 +75,9 @@ I will code **every day** to improve my skills.
 - [x] Sets - Loop
 - [x] Sets - Join
 - [x] Sets - Frozenset
+- [x] Dictionaries
 
 #### Next Topics
-- [ ] Dictionaries
 - [ ] If...Else
 - [ ] While Loops
 - [ ] For Loops
