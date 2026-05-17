@@ -76,6 +76,7 @@ I will code **every day** to improve my skills.
 - [x] Sets - Join
 - [x] Sets - Frozenset
 - [x] Dictionaries
+- [x] Dictionaries - Access
 
 #### Next Topics
 - [ ] If...Else
