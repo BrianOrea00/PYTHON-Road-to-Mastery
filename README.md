@@ -79,6 +79,7 @@ I will code **every day** to improve my skills.
 - [x] Dictionaries - Access
 - [x] Dictionaries - Change
 - [x] Dictionaries - Add
+- [x] Dictionaries - Remove
 
 #### Next Topics
 - [ ] If...Else
