@@ -81,6 +81,7 @@ I will code **every day** to improve my skills.
 - [x] Dictionaries - Add
 - [x] Dictionaries - Remove
 - [x] Dictionaries - Loop
+- [x] Dictionaries - Copy
 
 #### Next Topics
 - [ ] If...Else
