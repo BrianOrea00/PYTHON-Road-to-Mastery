@@ -83,9 +83,9 @@ I will code **every day** to improve my skills.
 - [x] Dictionaries - Loop
 - [x] Dictionaries - Copy
 - [x] Dictionaries - Nested
+- [x] If Statement
 
 #### Next Topics
-- [ ] If...Else
 - [ ] While Loops
 - [ ] For Loops
 - [ ] Functions
