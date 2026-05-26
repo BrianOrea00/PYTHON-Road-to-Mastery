@@ -85,6 +85,7 @@ I will code **every day** to improve my skills.
 - [x] Dictionaries - Nested
 - [x] If Statement
 - [x] Elif Statement
+- [x] Else Statement
 
 #### Next Topics
 - [ ] While Loops
