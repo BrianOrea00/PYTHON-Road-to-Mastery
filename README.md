@@ -86,6 +86,7 @@ I will code **every day** to improve my skills.
 - [x] If Statement
 - [x] Elif Statement
 - [x] Else Statement
+- [x] Shorthand If
 
 #### Next Topics
 - [ ] While Loops
