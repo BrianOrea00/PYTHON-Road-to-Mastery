@@ -87,6 +87,7 @@ I will code **every day** to improve my skills.
 - [x] Elif Statement
 - [x] Else Statement
 - [x] Shorthand If
+- [x] Logical Operator
 
 #### Next Topics
 - [ ] While Loops
