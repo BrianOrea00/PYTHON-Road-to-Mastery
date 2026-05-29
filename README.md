@@ -88,6 +88,7 @@ I will code **every day** to improve my skills.
 - [x] Else Statement
 - [x] Shorthand If
 - [x] Logical Operator
+- [x] Nested If
 
 #### Next Topics
 - [ ] While Loops
