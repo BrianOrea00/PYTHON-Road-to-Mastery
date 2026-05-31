@@ -38,8 +38,7 @@ if x < 0:
 
 if x != 0:
     pass
-else:
-    print("Program Continued")
+print("Program Continued")
 
 # the pass statement is a null operation that serves as a placeholder allowing code to run without excuting any action or command
 
