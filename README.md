@@ -90,6 +90,7 @@ I will code **every day** to improve my skills.
 - [x] Logical Operator
 - [x] Nested If
 - [x] Pass Statement
+- [x] Match
 
 #### Next Topics
 - [ ] While Loops
