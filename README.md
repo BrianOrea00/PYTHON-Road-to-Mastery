@@ -91,9 +91,9 @@ I will code **every day** to improve my skills.
 - [x] Nested If
 - [x] Pass Statement
 - [x] Match
+- [x] While Loops
 
 #### Next Topics
-- [ ] While Loops
 - [ ] For Loops
 - [ ] Functions
 - [ ] Lambda
