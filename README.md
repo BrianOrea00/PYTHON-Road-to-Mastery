@@ -92,9 +92,9 @@ I will code **every day** to improve my skills.
 - [x] Pass Statement
 - [x] Match
 - [x] While Loops
+- [ ] For Loops
 
 #### Next Topics
-- [ ] For Loops
 - [ ] Functions
 - [ ] Lambda
 - [ ] Arrays
