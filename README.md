@@ -92,10 +92,10 @@ I will code **every day** to improve my skills.
 - [x] Pass Statement
 - [x] Match
 - [x] While Loops
-- [ ] For Loops
+- [x] For Loops
+- [x] Functions
 
 #### Next Topics
-- [ ] Functions
 - [ ] Lambda
 - [ ] Arrays
 - [ ] Classes / Objects
