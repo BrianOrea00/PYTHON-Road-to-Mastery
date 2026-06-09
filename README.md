@@ -94,6 +94,7 @@ I will code **every day** to improve my skills.
 - [x] While Loops
 - [x] For Loops
 - [x] Functions
+- [x] Functions - Arguments
 
 #### Next Topics
 - [ ] Lambda
