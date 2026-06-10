@@ -95,6 +95,7 @@ I will code **every day** to improve my skills.
 - [x] For Loops
 - [x] Functions
 - [x] Functions - Arguments
+- [x] Functions - *args / **kwargs
 
 #### Next Topics
 - [ ] Lambda
