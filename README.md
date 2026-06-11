@@ -96,6 +96,7 @@ I will code **every day** to improve my skills.
 - [x] Functions
 - [x] Functions - Arguments
 - [x] Functions - *args / **kwargs
+- [x] Functions - Scope
 
 #### Next Topics
 - [ ] Lambda
