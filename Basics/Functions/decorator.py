@@ -20,4 +20,31 @@ print(myFunc())
 # a decorator can be multiple times just place the decorator above the function we want to decorate
 def changecase(func):
     def myinner():
-        return 
+        return func().upper()
+    return myinner
+
+@changecase
+def myFunc():
+    return "Hello Sally"
+
+@changecase
+def otherFunc():
+    return "I am Speed"
+
+print(myFunc())
+print(otherFunc())
+
+# Arguments in the Decorated Function
+# Functions that require arguments can also be decorated just make sure the arguments to the wrapper function
+def changecase(func):
+    def myinner(x):
+        return func(x).upper()
+    return myinner
+
+@changecase
+def myFunc(nam):
+    return "Hello " + nam
+
+print(myFunc("john"))
+
+
